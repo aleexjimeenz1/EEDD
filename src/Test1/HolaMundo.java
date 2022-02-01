@@ -1,4 +1,4 @@
-package ED;
+package Test1;
 
 public class HolaMundo {
 	
